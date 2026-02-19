@@ -27,6 +27,17 @@ This SQL case study analyzes BMW sales data to extract insights about pricing, r
 All queries are available in:
 `queries/bmw_sales_analysis.sql`
 
+## 💡 Key Insights
+
+After executing the analysis queries:
+
+- Electric vehicles represent a growing premium segment in the BMW lineup.
+- Premium-priced models dominate higher revenue regions.
+- Certain regions consistently outperform others in total sales volume.
+- Window ranking shows clear top-performing models within each region.
+
+These findings demonstrate practical SQL skills in extracting business-driven insights from structured data.
+
 
 # -- 1. Get all BMW cars sold after 2020
 
